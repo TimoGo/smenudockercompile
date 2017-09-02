@@ -1,4 +1,4 @@
 # smenudockercompile
-generate smenu binary and manpage with docker shellsript
+generate smenu binary fast and easy  with a simple shellscript
 
 smenu: https://github.com/p-gen/smenu
